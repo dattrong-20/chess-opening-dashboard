@@ -310,5 +310,3 @@ with tabs[3]:
         st.caption('Thời điểm tạo bộ dữ liệu ứng dụng (UTC): '+str(info.get('generated_at_utc','Chưa có')))
         with st.expander('Thông tin phiên bản dữ liệu'):
             st.json(info)
-    st.subheader('Cập nhật dữ liệu')
-    st.write('Bộ lọc cập nhật biểu đồ khi thay đổi. Để bổ sung nguồn: chạy pipeline Colab, tạo lại bộ dữ liệu ứng dụng, rồi cập nhật tệp trên GitHub. Ứng dụng đọc bản mới khi chạy lại. Chưa có lịch tự tải Lichess.')
