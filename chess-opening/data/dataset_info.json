@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-10-12T06:54:44.250516+00:00",
+  "period_start": "2015-01-01",
+  "period_end": "2015-06-30",
+  "n_games": 236690,
+  "recognized_games": 233346,
+  "unrecognized_games": 3344,
+  "sample_probability": 0.05,
+  "classification_scan_max_ply": 36,
+  "sha256": "c33f2427322c9d7765dcd8e796b6ebce4d45e9cb1a1ac8584cb5d85c0b74a245",
+  "source_file": "games_2015_01_06_clean.csv"
+}
